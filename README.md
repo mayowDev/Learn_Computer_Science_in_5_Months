@@ -45,3 +45,12 @@ You can find the video [here](https://youtu.be/-OvRVlqKebI).
 
 ## Week 20 (Blockchain)
 - https://www.youtube.com/watch?v=cjbHqvr4ffo&list=PL2-dafEMk2A7jW7CYUJsBu58JH27bqaNL 
+
+## People to follow on Twitter:
+Jeff Dean
+Paul Allen
+Tim Berners-Lee
+Linus Torvalds
+Brendan Eich
+John Carmack
+
